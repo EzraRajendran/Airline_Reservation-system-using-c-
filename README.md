@@ -22,7 +22,7 @@ The **Airline Reservation System** is a console-based application developed in C
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/airline-reservation-system.git
+   git clone 
    ```
 
 2. **Compile the program**:
