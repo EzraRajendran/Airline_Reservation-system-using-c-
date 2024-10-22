@@ -22,7 +22,7 @@ The **Airline Reservation System** is a console-based application developed in C
 
 1. **Clone the repository**:
    ```bash
-   git clone 
+   git clone https://github.com/EzraRajendran/Airline_Reservation-system-using-c-.git
    ```
 
 2. **Compile the program**:
@@ -52,7 +52,3 @@ The **Airline Reservation System** is a console-based application developed in C
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Feel free to adjust the repository URL, project details, and any other parts to better match your project setup!
